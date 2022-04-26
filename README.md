@@ -1,1 +1,2 @@
 # odin-recipes
+This project comes from The Odin Project. It is meant to make use of what you've learned (using GitHub, coding in HTML, working with the command line, etc.) to make a simple website. Let's see if I can accomplish the project.
